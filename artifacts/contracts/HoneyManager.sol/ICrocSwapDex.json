@@ -1,0 +1,35 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "ICrocSwapDex",
+  "sourceName": "contracts/HoneyManager.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "uint16",
+          "name": "callpath",
+          "type": "uint16"
+        },
+        {
+          "internalType": "bytes",
+          "name": "cmd",
+          "type": "bytes"
+        }
+      ],
+      "name": "userCmd",
+      "outputs": [
+        {
+          "internalType": "bytes",
+          "name": "",
+          "type": "bytes"
+        }
+      ],
+      "stateMutability": "payable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
